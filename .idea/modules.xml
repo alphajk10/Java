@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CA2 QB/CA2 QB.iml" filepath="$PROJECT_DIR$/CA2 QB/CA2 QB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CO4/CO4.iml" filepath="$PROJECT_DIR$/CO4/CO4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/New folder.iml" filepath="$PROJECT_DIR$/.idea/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/ex.iml" filepath="$PROJECT_DIR$/ex/ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment/payment.iml" filepath="$PROJECT_DIR$/payment/payment.iml" />
+    </modules>
+  </component>
+</project>
